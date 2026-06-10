@@ -2,6 +2,10 @@
 
 A React application that allows users to search for GitHub profiles and view user information through a fast and responsive interface.
 
+## Live Website
+
+[Go to page](https://github-accounts-finder-eight.vercel.app/)
+
 ## Features
 
 - 🔍 Search GitHub users by username
