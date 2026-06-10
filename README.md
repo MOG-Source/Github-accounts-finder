@@ -13,7 +13,7 @@ A React application that allows users to search for GitHub profiles and view use
 
 ## The .env
 
-_The endpoint you'll want to use in the .env is_
+_The endpoint you'll want to use in the .env is_:
 **https://api.github.com**
 
 ## Tech Stack
@@ -35,10 +35,11 @@ npm install
 ```
 
 **You'll need some extra dependencies like:**
-_@tanstack/react-query_
-_@tanstack/react-query-devtools_
-_react-icons_
-_use-debounce_
+
+- _@tanstack/react-query_
+- _@tanstack/react-query-devtools_
+- _react-icons_
+- _use-debounce_
 
 ## Running the App
 
