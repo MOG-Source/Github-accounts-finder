@@ -11,6 +11,11 @@ A React application that allows users to search for GitHub profiles and view use
 - 🔄 Smart caching and data management with TanStack Query
 - 📱 Responsive design for desktop and mobile devices
 
+## The .env
+
+_The endpoint you'll want to use in the .env is_
+**https://api.github.com**
+
 ## Tech Stack
 
 - React
